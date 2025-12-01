@@ -1,0 +1,11 @@
+[Unit]
+Description= Blink LED
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/sel/0238/blink_gpiozero.py
+ExecStop=/usr/bin/python3 /home/sel/0238/blinque.py
+User=sel
+
+[Install]
+WantedBy=multi-user.target
