@@ -1,0 +1,23 @@
+commit 46e228ba34eb9620077f5834c8592407ff674266
+Author: caikeba90 <caikeba90@usp.br>
+Date:   Mon Dec 1 19:18:27 2025 +0000
+
+    Adicionando o código do .service
+
+commit 16229bed1fde0e118088f089b40374eae2a7a8e5
+Author: caikeba90 <caikeba90@usp.br>
+Date:   Mon Dec 1 19:15:46 2025 +0000
+
+    Adicionando log da pratica
+
+commit 6d2cb59dcc20783764db4e071a3e459879b04ca3
+Author: caikeba90 <caikeba90@usp.br>
+Date:   Mon Dec 1 18:58:39 2025 +0000
+
+    Adicionando os codigos utilizados na pratica 5
+
+commit 70b2e708970ea1256fcc5dd1e65cd38033a70a8a
+Author: caikeba90 <caikeba90@usp.br>
+Date:   Mon Nov 24 17:35:45 2025 -0300
+
+    Initial commit
